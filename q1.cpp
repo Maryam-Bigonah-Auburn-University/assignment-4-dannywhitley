@@ -31,10 +31,10 @@ class GasPump {
         double seconds;
         double gasPrice;
 
-        // Declares variables to track the gas pumped per transaction and the total amount of gas pumped
+        // Declares variables to track the gas pumped per transaction
         double gasPumped;
 
-        // Declares variables to track the cost per transaction and the total cost of gas from the pump
+        // Declares variables to track the cost per transaction
         double gasCost;
 };
 
